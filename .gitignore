@@ -1,0 +1,8 @@
+bin/
+obj/
+.DS_Store
+.vscode/
+
+DES.Demo/out/
+DES.Demo/files/*
+!DES.Demo/files/.gitkeep
